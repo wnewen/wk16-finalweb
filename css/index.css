@@ -92,7 +92,7 @@ h1{
     }
 
     .btn-hamburger:hover{
-        background-color: #A58282;
+/*         background-color: #A58282; */
         cursor:pointer;
     }
 
@@ -466,7 +466,6 @@ h1{
     }
 
     .btn-hamburger:hover{
-        background-color: #A58282;
         cursor:pointer;
     }
 
@@ -838,7 +837,6 @@ h1{
     }
 
     .btn-hamburger:hover{
-        background-color: #A58282;
         cursor:pointer;
     }
 
